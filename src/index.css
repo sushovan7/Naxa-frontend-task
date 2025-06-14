@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Montserrat  */
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2")
+    format("woff2");
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* Material */
+@font-face {
+  font-family: "Material Icons";
+  src: url("./assets/fonts/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2")
+    format("woff2");
+  font-style: normal;
+  font-weight: 400;
+}
